@@ -37,8 +37,11 @@ I'm dreaming of being a backend developer, and I'm currently studying full stack
 <h4> Game </h4>
 <li>Apr. 2022 ~ Jul. 2022: HititHitit / Development of the game using Unity </li>
 <li>Sep. 2022 ~ Dec. 2022: 3_Cards / Game Planner </li>
+<br/>
+<br/>
 
 <h3> 🏅 Prize </3>
+<hr/>
 <li> Hongdae Business District Revitalization Project (hosted by the Seoul Credit Guarantee Foundation) : the grand prize </li>
 <br/>
 <br/>
