@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h3> 📚 My Tech Stacks 📚 </h3>
-<p></p>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</p>
