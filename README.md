@@ -1,4 +1,6 @@
 ### 🖐 Hi there, This is Yunsik's Coding World!
+<br/>
+<br/>
 
 <!--
 **rilato/rilato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +18,20 @@ Here are some ideas to get you started:
 -->
 
 <h3> 💬 Introductrion 💬 </h3>
+<hr/>
 Hi there! I'm Yunsik.
 I'm dreaming of being a backend developer, and I'm currently studying full stack.
+<br/>
+<br/>
 
 <h3> 🎓 Education 🎓 </h3>
+<hr/>
 Mar. 2017 ~ : Business Administration & Computer Engineering (double major) @ Hongik University 
+<br/>
+<br/>
 
 <h3> 📚 Tech Stacks 📚 </h3>
-<hr></hr>
+<hr/>
 <h4> Web </h4>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React"></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"></a>
