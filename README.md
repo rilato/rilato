@@ -25,7 +25,7 @@ I'm dreaming of being a backend developer, and I'm currently studying full stack
 
 <h3> 🎓 Education </h3>
 <hr/>
-*Mar. 2017 ~ : Business Administration & Computer Engineering (double major) @ Hongik University 
+* Mar. 2017 ~ : Business Administration & Computer Engineering (double major) @ Hongik University 
 <br/>
 <br/>
 
