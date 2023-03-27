@@ -36,5 +36,5 @@ Mar. 2017 ~ : Business Administration & Computer Engineering (double major) @ Ho
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C">
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++">
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python">
