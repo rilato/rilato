@@ -32,8 +32,8 @@ I'm dreaming of being a backend developer, and I'm currently studying full stack
 <h3> ⚡ Project </h3>
 <hr/>
 <h4> Web </h4>
-<li>Dec.2022 ~ : Masithong / Web development planner & Web Developer (full stack) </li>
-<li>Mar.2023 ~ : P!ck Me / Web development planner & Web Developer (full stack) </li>
+<li>Dec.2022 ~ : Masithong / Web development planner & Web Developer (full stack, Node.js + React + MongoDB) </li>
+<li>Mar.2023 ~ : P!ck Me / Web development planner & Web Developer (full stack, SpringBoot + React + PostgreSQL) </li>
 <h4> Game </h4>
 <li>Apr. 2022 ~ Jul. 2022: HititHitit / Development of the game using Unity </li>
 <li>Sep. 2022 ~ Dec. 2022: 3_Cards / Game Planner </li>
