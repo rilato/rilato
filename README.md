@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3> 💬 Introductrion </h3>
 <hr/>
 Hi there! I'm Yunsik.<br/>
-I'm dreaming of being a backend developer, and I'm currently studying full stack.
+I'm dreaming of being a backend developer, and I'm currently studying full stack!
 <br/>
 <br/>
 
