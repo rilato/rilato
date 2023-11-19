@@ -52,6 +52,12 @@ I'm dreaming of being a backend developer, and I'm currently studying full stack
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="SpringBoot"></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"></a>
+<a href="https://spring.io/projects/spring-security"><img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white" alt="Spring Security"></a>
+<a href="https://jwt.io/"><img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white" alt="JWT"></a>
+<a href="https://hibernate.org/"><img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" alt="Hibernate"></a>
+<a href="https://spring.io/projects/spring-data-jpa"><img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Data JPA"></a>
+<a href="http://tomcat.apache.org/"><img src="https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black" alt="Tomcat"></a>
+<a href="https://gradle.org/"><img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle"></a>
 <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"></a>
