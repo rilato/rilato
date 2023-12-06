@@ -42,6 +42,7 @@ I'm dreaming of being a backend developer, and I'm currently studying full stack
 
 <h3> 🏅 Prize </3>
 <hr/>
+<li> Graduation Project - P!ck Me (hosted by a department of computer engineering in Hongik University) : the encouragement prize </li>
 <li> Hongdae Business District Revitalization Project (hosted by the Seoul Credit Guarantee Foundation) : the grand prize </li>
 <br/>
 <br/>
