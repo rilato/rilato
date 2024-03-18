@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-<br/>
 <h3> 📄 Portfolio </h3>
 <hr/>
 https://precious-swan-febdb2.netlify.app/
